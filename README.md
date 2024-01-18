@@ -1,1 +1,1 @@
-JPG,PNG,BMP to GIF
+GUI app for WIN.JPG,PNG,BMP to GIF
